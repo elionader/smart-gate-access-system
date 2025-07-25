@@ -92,5 +92,4 @@ python3 mqtt_pi_client.py
 
 ## Authors & Acknowledgements
 
-Project developed by: Elio Nader and Georges Haddad
-Special thanks to OpenAI and SeeedStudio for documentation references.
+Project developed by: Elio Nader
